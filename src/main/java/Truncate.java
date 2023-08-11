@@ -12,9 +12,6 @@ import java.sql.Statement;
  *
  * The syntax for truncating a table:
  * TRUNCATE TABLE table_name;
- *
- * Additional reference material if needed: https://www.w3schools.com/sql/sql_drop_table.asp
- *      The documentation in W3 schools has a TRUNCATE demo under the DROP TABLE demo.
  */
 public class Truncate {
 
